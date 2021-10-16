@@ -1,6 +1,6 @@
 # Script Name: Player Coords
 
-## Usage 
+### Usage 
 ```bash 
 chat: /coords
 console: coords
